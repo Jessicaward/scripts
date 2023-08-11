@@ -4,6 +4,9 @@
 - You must have vcgencmd available, and have the relevant permissions to run it, see below for more details.
 - You must be this tall to ride B)
 
+## Instructions
+Download the script, replace the logfile path, and run `sh temperature.sh`.
+
 ## vcgencmd
 This script uses `vcgencmd`, a tool for the raspberry pi's VideoCore GPU. This is included by default on Raspian, but you can install it on other distros using:
 
